@@ -71,7 +71,7 @@ Start services in this order:
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Others Improvements (in privacy repo)
 
 * Retry policies (Polly)
 * Dead-letter queue monitoring
