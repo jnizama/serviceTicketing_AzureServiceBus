@@ -1,6 +1,6 @@
 # 🎫 Support Ticket System - Azure Service Bus (.NET)
 
-This project simulates a **real-world support ticket system** using Azure Service Bus and .NET.
+This project is part of a **real-world support ticket system** using Azure Service Bus and .NET.
 
 ## 🧠 Architecture
 
