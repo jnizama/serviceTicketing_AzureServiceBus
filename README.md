@@ -1,6 +1,6 @@
 # 🎫 Support Ticket System - Azure Service Bus (.NET)
 
-This project is part of a **real-company based in Spain support ticket system** using Azure Service Bus and .NET.
+This project is part of a real-company support ticket system based in Spain, using Azure Service Bus and .NET.
 
 ## 🧠 Architecture
 
