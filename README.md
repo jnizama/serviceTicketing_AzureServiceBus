@@ -78,9 +78,3 @@ Start services in this order:
 * Azure Functions integration
 * Email integration (SendGrid)
 * REST API layer (ASP.NET Core)
-
----
-
-## 📄 License
-
-MIT
