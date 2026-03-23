@@ -71,12 +71,6 @@ Start services in this order:
 
 ---
 
-## 💼 CV Description
-
-> Designed and implemented an event-driven support ticket processing system using Azure Service Bus and .NET, including asynchronous messaging, service decoupling, and business rule processing across distributed services.
-
----
-
 ## 🚀 Future Improvements
 
 * Retry policies (Polly)
